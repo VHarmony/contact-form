@@ -1,8 +1,7 @@
 # Software Development Course: Week 2, Milestone 1.1 - Contact Form using HTML.
 
-## Overview
-
-The Contact form was designed using oure HTML in the 'index.html' file. It has a title named 'Contact Us' and three(3) labeled input fields. These includes a the 'Name' input field, the 'Email' input field and the 'Message' testx area.
+## Description
+The poject is a Contact form designed using HTML. It is titled 'Contact Us' and has three(3) labeled input fields. The form can be used to collect users' Fullname, email address and message
 
 Lastly, it contains an input button which will enable users to submit their contact deatils and message.
 
